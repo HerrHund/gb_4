@@ -11,3 +11,4 @@ afterList = [i for i in myList if i > myList[myList.index(i)-1]]
 
 print(afterList)
 
+
